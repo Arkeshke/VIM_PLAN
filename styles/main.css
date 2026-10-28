@@ -894,11 +894,7 @@ html:not(.js) .faq-item[open] .faq-icon{
 
 @media (max-width:760px){
   .header-cta{display:none}
-  .hero-visual{display:flex;flex-direction:column;gap:12px;max-width:520px}
-  .float-card{position:static;width:100%}
-  .float-3d{order:2}
-  .float-estimate{order:3}
-  .room{height:64px}
+  .hero-visual{display:none}
 }
 
 @media (max-width:600px){
